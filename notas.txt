@@ -1,0 +1,1 @@
+npm install react react-dom -S (-S pq es una dependencia q no es de desarrollo, este comadno es para instalar react)
